@@ -75,7 +75,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/draw.kaliop.io\/"
+                 "value":"https:\/\/excalidraw.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
