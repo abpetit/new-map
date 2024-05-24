@@ -75,7 +75,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/draw.kaliop.io\/"
+                 "value":"https:\/\/draw.kaliop.io\/#room=4a7a57201770eb62289c,B6PJuzvDftjfo3wcnJ6vfQ"
                 }],
          "type":"tilelayer",
          "visible":true,
